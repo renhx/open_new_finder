@@ -1,0 +1,1 @@
+Finderの新しいWindowを開きます。
